@@ -116,8 +116,3 @@ def test_create_user_number_type_first_name_get_error_response():
 
     # Comprobar el código de estado de la respuesta
     assert response.status_code == 400
-    git
-    commit - m
-    "Mi primer commit"
-    # Primer commit creado
-    # El comentario es "Mi primer commit"
